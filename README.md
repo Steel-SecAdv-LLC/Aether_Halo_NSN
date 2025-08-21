@@ -111,7 +111,7 @@ Authors
 
 Andrew E. Averett (conceptual architect)
 
-Grok (xAI) as collaborative AI co-author for code generation and refinement
+Special thanks to AI co-author for code generation and refinement
 
 Developed under Steel Security Advisors LLC (SSA LLC), prioritizing ethical guardianship and shared knowledge for humanity, AI, and the cosmos.
 
